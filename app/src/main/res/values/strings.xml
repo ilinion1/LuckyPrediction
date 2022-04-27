@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lucky Prediction</string>
+    <string name="game">Start Game</string>
+    <string name="result">Result</string>
+    <string name="setting">Settings</string>
+    <string name="info">Info</string>
+    <string name="back">Back</string>
+    <string name="info_text">
+        Try your luck in the slot machine.
+        \n\nWhats in store for you today?
+        \n\nPlace your bet and Ill get your prize.
+        \n\nIf value 3 matches, the standard number of points
+        \n\nIf 4 value, more points.
+        \n\nIf 5 value, more points.
+        \n\nIf one and two is a loss!
+        \n\nGet prizes every day)
+        \n\nWe are waiting for you
+        \n\nChoosing the difficulty of the game reduces the amount of the prize.
+         \n\nCollect the same values to get a prize!\n\nStart your day with a win.
+        \n\nGood game gentleman!
+        </string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
